@@ -1,1 +1,3 @@
-appsettings*.json
+# Ignorar arquivos de configuração sensíveis
+appsettings.Development.json
+appsettings.Local.json
